@@ -23816,8 +23816,3 @@ UPDATE item_template SET name='雕文精致黄宝石',description='对应红色�
 UPDATE item_template SET name='符文红绚石',description='对应红色插槽。' WHERE entry=38549 ;
 UPDATE item_template SET name='柔光精致黎明石',description='对应黄色插槽。' WHERE entry=38546 ;
 UPDATE item_template SET name='高能精致黄宝石',description='对应红色或黄色插槽。' WHERE entry=38548 ;
-UPDATE item_template SET name='超级宝石',description='我的最佳助手' WHERE entry=990001 ;
-UPDATE item_template SET name='积分宝石',description='我的最佳助手' WHERE entry=990002 ;
-UPDATE item_template SET name='攻城之匙',description='开始攻城的钥匙' WHERE entry=990003 ;
-UPDATE item_template SET name='城首之匙',description='城市首领的钥匙' WHERE entry=990004 ;
-UPDATE item_template SET name='城市钥匙',description='城市接管钥匙' WHERE entry=990005 ;
