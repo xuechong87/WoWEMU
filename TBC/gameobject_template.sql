@@ -12713,5 +12713,3 @@ UPDATE gameobject_template SET name='邮箱' WHERE entry=187113 ;
 UPDATE gameobject_template SET name='受难者纪念碑' WHERE entry=187116 ;
 UPDATE gameobject_template SET name='邮箱' WHERE entry=188123 ;
 UPDATE gameobject_template SET name='海加尔圣山征兵令' WHERE entry=100002 ;
-UPDATE gameobject_template SET name='关于幽狼世界' WHERE entry=100001 ;
-UPDATE gameobject_template SET name='攻城系统说明' WHERE entry=100003 ;
