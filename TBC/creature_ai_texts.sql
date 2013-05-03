@@ -1036,7 +1036,7 @@ UPDATE creature_ai_texts SET content_default='终于自由了，你太勇敢了 
 UPDATE creature_ai_texts SET content_default='你无法掌控我，微不足道的$C！' WHERE entry=-7111 ;
 UPDATE creature_ai_texts SET content_default='现在，我已经重新组合，我们可以回到一个完美的时代...泰坦的时代！' WHERE entry=-7112 ;
 UPDATE creature_ai_texts SET content_default='不过，我可以在你的眼睛里看到它，在你的脉搏里听到它。你将摧毁我，尽管我是永生的！' WHERE entry=-7113 ;
-UPDATE creature_ai_texts SET content_default='好极了。这令我很难过，它已经到这样了。我把你们所有人就像我的孩子一般看待。如果我必须杀死你，我会那样做的！' WHERE entry=-7114 ;
+UPDATE creature_ai_texts SET content_default='好极了。这令我很难过，它已经变成这样了。我把你们所有人当做自己的孩子一般看待。如果我不得不杀死你，我会那样做的！' WHERE entry=-7114 ;
 UPDATE creature_ai_texts SET content_default='你要找我，孩子？你为什么来杀我为$N？我只希望能提供帮助' WHERE entry=-7115 ;
 UPDATE creature_ai_texts SET content_default='来玩吗？' WHERE entry=-7116 ;
 UPDATE creature_ai_texts SET content_default='我什么都不会告诉你的，恶心的东西， $R!' WHERE entry=-7117 ;
@@ -1068,7 +1068,7 @@ UPDATE creature_ai_texts SET content_default='Zarath您必须立刻回车黑暗�
 UPDATE creature_ai_texts SET content_default='我主，你肯定不希望我离开，这样你就无人看管了。如果有什么要发生在你身上，伊利丹大人会要我脑袋的。' WHERE entry=-7144 ;
 UPDATE creature_ai_texts SET content_default='Zarath，我完全能确定这条道路到Eclipse点。如果我们不提供书信，伊利丹大人会让我们全都没命！解散！' WHERE entry=-7145 ;
 UPDATE creature_ai_texts SET content_default='如您所愿，大人。' WHERE entry=-7146 ;
-UPDATE creature_ai_texts SET content_default='啊，甜，甜血蓟...也许日蚀岗哨那些痴迷者之一留下的。' WHERE entry=-7147 ;
+UPDATE creature_ai_texts SET content_default='啊，甜，甜血蓟...也许是日蚀岗哨那些痴迷者之一留下的。' WHERE entry=-7147 ;
 UPDATE creature_ai_texts SET content_default='他们的损失基本都是我的收获...' WHERE entry=-7148 ;
 UPDATE creature_ai_texts SET content_default='我在那里？你是谁？这是什么奇怪的感觉？' WHERE entry=-10000 ;
 UPDATE creature_ai_texts SET content_default='但是...但我是完美的！' WHERE entry=-10001 ;
@@ -1092,7 +1092,7 @@ UPDATE creature_ai_texts SET content_default='如果你有一些特别的东西�
 UPDATE creature_ai_texts SET content_default='只要小心这瓶。' WHERE entry=-160079 ;
 UPDATE creature_ai_texts SET content_default='我提供最好的商品！' WHERE entry=-160080 ;
 UPDATE creature_ai_texts SET content_default='神奇的物品，试剂...' WHERE entry=-160083 ;
-UPDATE creature_ai_texts SET content_default='如果这名士兵没有收到照顾，很快就会死，会有任何勇敢的，希望能帮助我吗？' WHERE entry=-63 ;
+UPDATE creature_ai_texts SET content_default='如果这名士兵没有受到照顾，很快就会死，会有任何勇敢的，希望能帮助我吗？' WHERE entry=-63 ;
 UPDATE creature_ai_texts SET content_default='该联盟！到了荣誉！由死亡！抵抗恐惧，不欠他的乐趣，他们抢夺你的生命在你眼中的恐惧！' WHERE entry=-66 ;
 UPDATE creature_ai_texts SET content_default='不要忘了访问的工匠附近！最好的配方和工艺组件！' WHERE entry=-69 ;
 UPDATE creature_ai_texts SET content_default='肮脏的野兽办法！你会采取自己这样的打击，你不会知道你的头和脚！！' WHERE entry=-70 ;
